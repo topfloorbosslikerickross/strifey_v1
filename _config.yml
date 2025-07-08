@@ -1,0 +1,19 @@
+title: TopTick Trading Notes
+description: Professional trading notes and level tracking app
+baseurl: ""
+url: ""
+
+# GitHub Pages settings
+plugins:
+  - jekyll-sitemap
+
+# Exclude files from processing
+exclude:
+  - create-icons.py
+  - create-basic-icons.js
+  - generate-icons.html
+  - README.md
+
+# Include files that start with underscore
+include:
+  - _headers
